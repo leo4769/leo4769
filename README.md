@@ -1,7 +1,7 @@
 ### Olá eu sou Leonardo Fernandes 👋
 
 - 🔭 Em busca da primeira vaga como DEV;
-- 📚 Curso Análise e Desenvolvimento de Sistemas - UNINASSAU 
+- 📚 Curso Análise e Desenvolvimento de Sistemas - UNINASSAU;
 - 🌱 Estou atualizando em Back-end: Python, SQL, Django, Flask e Rest API;
 - 🌱 Estou aprendendo em Front-end: Html, CSS e JavaScript;
 - ⚡ Curiosidade: Adoro desafios.
@@ -9,8 +9,8 @@
 -->
 <div align="center">
   <a href="https://github.com/leo4769">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leo4769&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo4769&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leo4769&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo4769&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
